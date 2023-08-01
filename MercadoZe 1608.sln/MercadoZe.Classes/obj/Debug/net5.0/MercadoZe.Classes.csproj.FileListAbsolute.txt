@@ -1,0 +1,12 @@
+C:\troptech\MercadoZe 1608.sln\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.deps.json
+C:\troptech\MercadoZe 1608.sln\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.dll
+C:\troptech\MercadoZe 1608.sln\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.pdb
+C:\troptech\MercadoZe 1608.sln\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.csproj.AssemblyReference.cache
+C:\troptech\MercadoZe 1608.sln\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\troptech\MercadoZe 1608.sln\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.AssemblyInfoInputs.cache
+C:\troptech\MercadoZe 1608.sln\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.AssemblyInfo.cs
+C:\troptech\MercadoZe 1608.sln\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.csproj.CoreCompileInputs.cache
+C:\troptech\MercadoZe 1608.sln\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.dll
+C:\troptech\MercadoZe 1608.sln\MercadoZe.Classes\obj\Debug\net5.0\refint\MercadoZe.Classes.dll
+C:\troptech\MercadoZe 1608.sln\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.pdb
+C:\troptech\MercadoZe 1608.sln\MercadoZe.Classes\obj\Debug\net5.0\ref\MercadoZe.Classes.dll
